@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Hi.Models;
 
 namespace Hi
 {
@@ -15,7 +16,14 @@ namespace Hi
     {
         public MainPage()
         {
-            InitializeComponent();
+           InitializeComponent();
+
+
+            var users = new List<User>()
+            {
+                new User("Marco"),new User( "Cat"),new User( "Rob")
+            };
+            CarouselView.ItemsSource = users;
         }
     }
 }

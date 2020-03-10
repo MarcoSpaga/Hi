@@ -1,0 +1,13 @@
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\bin\Debug\netstandard2.0\Hi.deps.json
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\bin\Debug\netstandard2.0\Hi.dll
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\bin\Debug\netstandard2.0\ref\Hi.dll
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\bin\Debug\netstandard2.0\Hi.pdb
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\Hi.csprojAssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\Hi.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\Hi.AssemblyInfo.cs
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\Hi.dll
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\ref\Hi.dll
+C:\Users\marco\Documents\GitHub\Hi\Hi\Hi\obj\Debug\netstandard2.0\Hi.pdb
